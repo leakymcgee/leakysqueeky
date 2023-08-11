@@ -1,1 +1,3 @@
 apikey=1234
+aws_access_key_id = AKIAVD32IN6IC4F6LGXF
+aws_secret_access_key = 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
