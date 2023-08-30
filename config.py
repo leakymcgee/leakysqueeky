@@ -27,5 +27,11 @@ PREPARE stmt2 FROM @bb;
 EXECUTE stmt2;
 START REPLICA;
 
+[default]
+aws_access_key_id = AKIA2OGYBAH66D3X5FFR
+aws_secret_access_key = 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
+output = json
+region = us-east-2
 
+ffdaye0jg6usp33u9jab6wf2i.canarytokens.com
                     
