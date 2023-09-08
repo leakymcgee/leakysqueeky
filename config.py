@@ -1,6 +1,5 @@
-aws_access_key_id = AKIAVAGUQ5JEUKDIHRXR
-aws_secret_access_key = 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
-
+aws_access_key_id = AKIAWG5BIHVT5HU4AKWM
+aws_secret_access_key = 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
 
 
 appId= '6b13352a-8cf5-4cac-9c72-6189b4ebf59c'
